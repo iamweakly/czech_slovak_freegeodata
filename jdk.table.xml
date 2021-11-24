@@ -1,0 +1,476 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-418249633" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (prg_mal0336)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\prg_mal0336\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/prg_mal0336/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/prg_mal0336/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/prg_mal0336/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/prg_mal0336/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1584445514" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/prg_mal0336" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (ukol3)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\Documents\VSB\4.Semestr\Programovani\Ukol3\ukol3\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Documents/VSB/4.Semestr/Programovani/Ukol3/ukol3/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Documents/VSB/4.Semestr/Programovani/Ukol3/ukol3/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Documents/VSB/4.Semestr/Programovani/Ukol3/ukol3/venv" type="simple" />
+            <root url="file://$USER_HOME$/Documents/VSB/4.Semestr/Programovani/Ukol3/ukol3/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1233617975" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/VSB/4.Semestr/Programovani/Ukol3/ukol3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Python27\ArcGIS10.7\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.7/bin" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.7/arcpy" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.7/ArcToolbox/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1893498258" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="C:\Users\janma\AppData\Local\Programs\Python\Python39\pythonw.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-464469136" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ukol 4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="C:\Users\janma\AppData\Local\Programs\Python\Python39\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-432746193" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/VSB/4.Semestr/Programovani/ukol 4" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (envnumpy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.2" />
+      <homePath value="C:\Users\janma\anaconda3\envs\envnumpy\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/envnumpy/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/envnumpy/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/envnumpy/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-2143617298" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/VSB/4.Semestr/Programovani/ukol 4" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (untit)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\untit\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/untit/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untit/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untit/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untit/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/644211916" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (untit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="C:\Users\janma\anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-692609558" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.10" />
+      <homePath value="C:\Users\janma\anaconda3\envs\untit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/untit/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/untit/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/untit/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-176682008" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (untit) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="C:\Users\janma\anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-692609558" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untit) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\OSGeo4W64\bin\python-qgis.bat" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/OSGeo4W64/apps/qgis/python" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/Scripts" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/DLLs" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/lib" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/lib/site-packages" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/lib/site-packages/win32" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/OSGeo4W64/apps/Python37/lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1231179095" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (chko)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\chko\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/chko/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/chko/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/chko/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/chko/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1535692541" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/chko" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (chko)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.10" />
+      <homePath value="C:\Users\janma\anaconda3\envs\chko\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/chko/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/chko/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/chko/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-883571769" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/chko" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (env_geopandas)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\Users\janma\anaconda3\envs\env_geopandas\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/env_geopandas/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/env_geopandas/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/env_geopandas/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1671788170" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/chko" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (zaver_projekt_mal0336)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\zaver_projekt_mal0336\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/zaver_projekt_mal0336/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/zaver_projekt_mal0336/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/zaver_projekt_mal0336/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/zaver_projekt_mal0336/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1856460781" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/zaver_projekt_mal0336" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (untitled1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\janma\PycharmProjects\untitled1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/Scripts" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.7/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/423326802" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled1" />
+    </jdk>
+  </component>
+</application>
